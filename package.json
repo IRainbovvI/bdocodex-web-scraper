@@ -4,6 +4,7 @@
   "description": "Tool for retrieving items data from bdocodex, changing its format and saving on the local computer.",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Vladyslav Prokopchuk",
